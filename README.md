@@ -1,5 +1,10 @@
 # just starting out and collecting on the fly
 
+## Binary Number System
+
+https://ryanstutorials.net/binary-tutorial/  
+https://www.calculator.net/binary-calculator.html
+
 ## Tools
 
 https://mxtoolbox.com/  
@@ -28,7 +33,14 @@ https://www.studytonight.com/computer-networks/
 
 https://javascript.info  
 https://exploringjs.com  
-https://github.com/getify/You-Dont-Know-JS
+https://github.com/getify/You-Dont-Know-JS  
+https://www.valentinog.com/blog/error/  
+https://dmitripavlutin.com/javascript-fetch-async-await/
+https://dev.to/jamesliudotcc/how-to-use-async-await-with-map-and-promise-all-1gb5
+
+## Python
+
+https://www.valentinog.com/blog/python-for-js/
 
 ## Challenges and Competitions
 
@@ -55,7 +67,7 @@ https://lerneprogrammieren.de/git/
 ## C
 
 UIBK - Einführung in die Programmierung  
-https://www.youtube.com/watch?v=7P7dSOKAonM&list=PL5eolwFmTdvj6uEwatR3NrPLDtGV3Qln6
+https://www.youtube.com/playlist?list=PL5eolwFmTdvj6uEwatR3NrPLDtGV3Qln6
 
 ## C#
 
